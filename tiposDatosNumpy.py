@@ -1,5 +1,5 @@
 import numpy as np
-
+#probando una cosa para ver si estaconectdo a git
 # de esta manera le especificamos un tipo de dato pasando el sregundo argumentpo
 from numpy import ndarray
 
