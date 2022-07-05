@@ -54,7 +54,6 @@ print()
 print(music_spoty.drop(range(0, 3), axis=0).head(3),
       "como se observa inica desde la fila 3 ya uqe la 0 , 1,2 las elimino ")
 
-del music_spoty['Serial Number']
 
 print(music_spoty.head(10))
 
